@@ -1,2 +1,2 @@
 # TeleBot
-A Telegram Bot built with python
+A Telegram Bot that displays a cute dog picture when you type the command /bop. Built with python
